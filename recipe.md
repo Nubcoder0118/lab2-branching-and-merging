@@ -6,7 +6,9 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
-- ...
+- 1 smartie
+- 1 kitkat
+- 1 dorito
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
